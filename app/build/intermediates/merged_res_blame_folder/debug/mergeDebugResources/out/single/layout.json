@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "iss.nus.edu.sg.mygo.app-mergeDebugResources-58:/layout/search_fragment.xml",
+        "source": "iss.nus.edu.sg.mygo.app-main-61:/layout/search_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-mergeDebugResources-58:\\layout\\ui_activity.xml",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\ui_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-mergeDebugResources-58:\\layout\\activity_mygo_greeting.xml",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\activity_mygo_greeting.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-mergeDebugResources-58:\\layout\\search_fragment.xml",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-mergeDebugResources-58:\\layout\\attraction_card.xml",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\attraction_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-mergeDebugResources-58:\\layout\\home_fragment.xml",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\home_fragment.xml"
+    }
+]

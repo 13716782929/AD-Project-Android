@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main1_menu_icon_calendar.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main1_menu_icon_calendar.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_regular.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_regular.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_hotel_recommend_card.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_hotel_recommend_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_24pt_black.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_24pt_black.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_hotels.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\hotels.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\color_nav_item_color.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_flight_takeoff.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\flight_takeoff.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_24pt_extrabolditalic.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_24pt_extrabolditalic.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_hotel_3.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_hotel_3.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main_1.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main_1.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_flight.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_flight.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\layout_activity_mygo_greeting.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\activity_mygo_greeting.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_24pt_blackitalic.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_24pt_blackitalic.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_select_item.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\select_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_splash.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\splash.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_flight_land.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\flight_land.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_rectangle_4.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\rectangle_4.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main1_menu_icon_profile.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main1_menu_icon_profile.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_rectangle.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_rectangle.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_home.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\home.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main_head.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main_head.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_hotel_1.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_hotel_1.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_medium.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_medium.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_material_symbols_star.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\material_symbols_star.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_menu_icon_search.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_menu_icon_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_image3.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_image3.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_status.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\status.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_semibold.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_semibold.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_line_58.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\line_58.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\layout_ui_activity.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\ui_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main_head_02.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main_head_02.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\layout-v31_activity_mygo_greeting.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout-v31\\activity_mygo_greeting.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_24pt_bold.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_24pt_bold.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_menu_icon_calendar.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_menu_icon_calendar.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_search_icon.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\search_icon.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_shape_ticket1.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\shape_ticket1.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_flight_land.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\flight_land.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_hotel_2.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_hotel_2.png"
+    },
+    {
+        "merged": "iss.nus.edu.sg.mygo.app-debug-59:/layout_search_fragment.xml.flat",
+        "source": "iss.nus.edu.sg.mygo.app-main-61:/layout/search_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_menu_icon_home.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_menu_icon_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main1_menu_icon_search.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main1_menu_icon_search.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_subtract.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\subtract.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_fork.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_fork.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_image2.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_image2.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_semibolditalic.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_semibolditalic.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\layout_search_fragment.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main1_menu_icon_notification.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main1_menu_icon_notification.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\layout_home_fragment.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main_head_01.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main_head_01.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_circle_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_thinitalic.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_thinitalic.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_mask1.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_mask1.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_home.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_rectangle_9.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\rectangle_9.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_line_arrow.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\line_arrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\layout_attraction_card.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\layout\\attraction_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_fork.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\fork.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_search_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_main1_menu_icon_home.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\main1_menu_icon_home.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_image1.png.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_image1.png"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_line_arrow.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\line_arrow.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_24pt_bolditalic.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_24pt_bolditalic.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_flight_takeoff.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\flight_takeoff.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_joti_one_regular.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\joti_one_regular.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\raw_flight.svg.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\raw\\flight.svg"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_search_icon.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_24pt_extrabold.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_24pt_extrabold.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_menu_icon_notification.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_menu_icon_notification.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_thin.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_thin.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\font_inter_18pt_mediumitalic.ttf.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\font\\inter_18pt_mediumitalic.ttf"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-debug-59:\\drawable_main1_menu_icon_profile.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.9\\iss.nus.edu.sg.mygo.app-main-61:\\drawable\\main1_menu_icon_profile.xml"
+    }
+]
